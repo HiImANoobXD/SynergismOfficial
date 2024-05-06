@@ -2330,7 +2330,7 @@
           "15": "Effect: Mint Generation x{{x}}",
           "16": "Effect: Gain {{x}}x more Diamonds on Prestige",
           "17": "Effect: Mint Production x1e100 (Duh)",
-          "18": "Effect: Printer Production x",
+          "18": "Effect: Printer Production x{{x}}",
           "19": "Effect: Investment Production x{{x}}",
           "20": "Effect: All coin production is further multiplied by {{x}} [Stacks with upgrade 1]!",
           "21": "Effect: {{x}} Multipliers, +{{y}} Accelerators.",
